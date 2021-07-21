@@ -42,7 +42,7 @@
         <configuration>
           <allowInsecureRegistries>true</allowInsecureRegistries>
           <from>
-            <image>openjdk:8</image>
+            <image>openjdk:8-jre-stretch</image>
           </from>
           <to>
             <image>${image-registry}/${project.artifactId}:${project.version}</image>
