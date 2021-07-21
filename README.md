@@ -10,4 +10,4 @@ To build the image:
 
 1. Run `mvn package` with an optional `-D myimage.registry.com:5000` as needed if you didn't update that property in the `pom.xml` above.
 
-[![asciicast](https://asciinema.org/a/1mlXtyyOdT0z3BjE730rpGIVz.svg?autoplay=true&loop=true)](https://asciinema.org/a/1mlXtyyOdT0z3BjE730rpGIVz?autoplay=true)
+[![asciicast](jibmaven.gif)](https://asciinema.org/a/426592)
